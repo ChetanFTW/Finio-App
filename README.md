@@ -1,6 +1,6 @@
 # Finio App: Finance and Asset Management Made Easy
 
-![Finio App Overview](https://github.com/user-attachments/assets/47f80334-278a-4e99-b171-207b6a640b6c)
+https://github.com/user-attachments/assets/47f80334-278a-4e99-b171-207b6a640b6c
 
 ## Overview
 
@@ -28,8 +28,28 @@ Finio is a comprehensive finance and asset management application designed to he
 
 ## Getting Started
 
-To get started with Finio, simply clone the repository and follow the installation instructions in the README file. Join the community to contribute, report issues, or suggest features!
+To get started with Finio, follow these steps:
 
+1. **Install Flutter**: Make sure you have Flutter version **3.24.3** installed. You can download it from the [Flutter official website](https://flutter.dev/docs/get-started/install).
+
+2. **Choose a Code Editor**: Select your preferred code editor, such as:
+   - Visual Studio Code (VSCode)
+   - Android Studio
+   - Xcode (for macOS)
+
+3. **Clone the Repository**: Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/DEVchetan01/Finio-App.git
+4. **Open the Project**: Open the cloned project in your chosen code editor.
+5. **Install Dependencies**: Navigate to pubspec.yaml and run the following commands in your terminal:
+   ```bash
+   flutter pub get
+   flutter pub upgrade
+6. **Choose an Emulator**: Select the emulator where you want to run the application.
+7. **Run the Application**: Finally, execute the following command in your terminal to run the app:
+   ```bash
+   flutter run
 ## Conclusion
 
 Finio aims to empower users to take control of their financial futures through effective management tools and resources. We invite you to explore Finio and transform the way you manage your finances and assets.
