@@ -1,6 +1,6 @@
 # Finio App: Finance and Asset Management Made Easy
 
-![Finio App Overview](https://link-to-your-video.com)
+![Finio App Overview](https://github.com/user-attachments/assets/47f80334-278a-4e99-b171-207b6a640b6c)
 
 ## Overview
 
