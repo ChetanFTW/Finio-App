@@ -55,7 +55,4 @@ To get started with Finio, follow these steps:
 Finio aims to empower users to take control of their financial futures through effective management tools and resources. We invite you to explore Finio and transform the way you manage your finances and assets.
 ### For more information, contact me!
 
-Join the community to contribute, report issues, or suggest features!:
-```bash
-Feel free to customize the contact section with your preferred contact information if needed. Let me know if there’s anything else you’d like to add or change!
 
