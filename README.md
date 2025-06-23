@@ -55,4 +55,4 @@ To get started with Finio, follow these steps:
 Finio aims to empower users to take control of their financial futures through effective management tools and resources. We invite you to explore Finio and transform the way you manage your finances and assets.
 ### For more information, contact me!
 
-
+[![Twitter](https://img.shields.io/badge/Twitter-@ChetanDoesDev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ChetanDoesDev)
