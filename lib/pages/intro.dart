@@ -1,9 +1,8 @@
 
-// import 'dart:ui_web';
 
 import 'package:flutter/material.dart';
 import 'package:untitled/navigation/bottom_nav_bar.dart';
-// import 'package:untitled/pages/home/home.dart';
+
 
 import '../utils/app_images.dart';
 
@@ -194,14 +193,7 @@ class _introState extends State<intro> {
                                   ),
                                 ),
                               ),
-                              // IconButton(
-                              //   icon: const Icon(Icons.arrow_forward), // Change icon as needed (e.g., Icons.keyboard_arrow_right)
-                              //   onPressed: () {
-                              //
-                              //
-                              //   },
-                              //   color: Colors.white, // Adjust color as needed
-                              // ),
+                              
                             ],
                           ),
                         ],
